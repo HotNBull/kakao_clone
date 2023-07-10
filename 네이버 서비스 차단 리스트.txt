@@ -1,0 +1,37 @@
+차단하는 네이버 서비스
+네이버밴드 : band.us
+네이버 쇼핑 라이브 : shoppinglive.naver.com
+네이버 스포츠 : sports.news.naver.com
+네이버 시리즈 : series.naver.com
+네이버 웹소설 : novel.naver.com
+네이버 해피빈 : happybean.naver.com
+네이버 마이박스 : mybox.naver.com
+네이버 바이브 : vibe.naver.com
+네이버 연예 : entertain.naver.com
+네이버 메모 : memo.naver.com
+네이버 밴드 키즈 : docs.band.us
+네이버 뿜 : m.bboom.naver.com
+네이버 스마트 스토어 : sell.smartstore.naver.com
+네이버 시리즈 온 : serieson.naver.com
+네이버 오피스 : office.naver.com
+네이버 클로바노트 : clovanote.naver.com
+네이버 톡톡 : talk.naver.com
+네이버 프리미엄 컨텐츠 : contents.premium.naver.com
+네이버 Keep : keep.naver.com
+네이버 모두 : www.modoo.at
+네이버 마이플레이스 : m.place.naver.com
+네이버 프리즘 라이브 : prismlive.com
+네이버 쪽지 : note.naver.com
+네이버 웹툰 : comic.naver.com
+네이버 TV : tv.naver.com
+네이버 쇼핑 부가 링크 : adcr.shopping.naver.com
+
+
+
+사번: 5908202
+
+사이트 주소: cafe.naver.com/
+
+사이트 카테고리: Naver Service Block
+
+
